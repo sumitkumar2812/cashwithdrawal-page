@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #150b3e;
+  border-radius: 5px;
+  height: 60vh;
+  width: 40vw;
+}
+.logo-container {
+  background-color: #c7d2fe;
+  border-radius: 30px;
+  align-items: center;
+  height: 60px;
+  width: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.logo-heading {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #7c3aed;
+}
+.name-container {
+  display: flex;
+  flex-direction: row;
+}
+.balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.balance-heading {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #382f5a;
+}
+.withdrawal {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #ffffff;
+}
+.sum-heading {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #382f5a;
+}
+.lists {
+  display: flex;
+  list-style-type: none;
+}
+.name-heading {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #382f5a;
+}

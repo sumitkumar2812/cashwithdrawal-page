@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.button {
+  font-size: 10px;
+  font-weight: 400;
+  font-family: roboto;
+  height: 40px;
+  width: 100px;
+  background-color: #382f5a;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
